@@ -1,0 +1,65 @@
+📘 PHP OOP Mini-Project: Library Management
+
+You will build a small library system using Object-Oriented Programming (OOP) in PHP.
+Complete the project step by step. Each task adds new features.
+
+Task 1: Book Class and Book Records
+
+Create a class named Book.
+
+Add the following properties inside the class:
+title (string)
+author (string)
+isbn (string)
+
+available (boolean – true if the book can be borrowed, false if not).
+Add a method inside the class to display the book’s information in a single line.
+Create three Book objects with this information:
+
+Book 1 → Title: "1984", Author: "George Orwell", ISBN: 123456789, Available: Yes
+Book 2 → Title: "The Hobbit", Author: "J.R.R. Tolkien", ISBN: 987654321, Available: Yes
+Book 3 → Title: "To Kill a Mockingbird", Author: "Harper Lee", ISBN: 456789123, Available: Yes
+
+Display all three books using the method you created.
+
+Task 2: Borrowing and Returning Books
+
+Inside the Book class, add a method called borrowBook().
+This should change available to false.
+It should also display a message that the book has been borrowed.
+Add another method called returnBook().
+
+This should change available back to true.
+It should also display a message that the book has been returned.
+Test this by borrowing and then returning the book "1984".
+After each action, display the book details again to confirm the change in availability.
+
+Task 3: Members and Staff
+
+Create a Member class with the following properties:
+name (string)
+email (string)
+phone (string)
+Add a method in Member to display the member’s details.
+Create a Member object named Alice with her details.
+Simulate Alice borrowing and returning a book (e.g., "The Hobbit").
+
+Create a class Librarian with:
+A property for the librarian’s name.
+A method assistMember($memberName) that shows the librarian is assisting a member.
+
+Create a class Manager with:
+A property for the manager’s name.
+A method supervise() that shows the manager is supervising library operations.
+
+Task 4: VIP Members and Discounts
+
+Create another Member object named John with his details.
+Mark John as a VIP member (you can add a new property like isVIP = true).
+Show that John has priority borrowing rights.
+Simulate John borrowing a book (e.g., "To Kill a Mockingbird").
+
+Add a borrowing fee system:
+Normal fee = 100.
+If the member is VIP, apply a 10% discount.
+Display the final discounted fee for John.
