@@ -43,11 +43,11 @@ To start coding in PHP, you need:
 <?php
 echo "Hello, PHP World!";
 ?>
-
+```
 ## 4. Running Your PHP Code
 
 1. Open your browser and go to:  
 http://localhost/myfirstphp/index.php
 You should see:
-
+```php
 Hello, PHP World!
