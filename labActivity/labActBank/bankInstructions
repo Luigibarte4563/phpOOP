@@ -1,0 +1,95 @@
+Objective:
+
+By the end of this exercise, students should be able to:
+
+Implement encapsulation principles in object-onented programming
+
+Differentiate between composition and inheritance through practical examples
+
+Utilize getter and setter methods to control access to class properties.
+
+Checkpoint 1: Implementing Encapsulation
+
+Instructions:
+
+1. Create a PHP class called BankAccount
+
+2. This class should have the following privats properties:
+
+account Number (string)
+
+account Holder (string)
+
+balance (float)
+
+3. Implement the following public methods:
+
+A constructor to initialize the accountNumber, account Holder, and starting balance
+
+A method deposit($amount) that increases the balance
+
+A method withdraw(Samount) that decreases the balance only if there are sufficient funds (if
+
+balance amount).
+
+Use getter and setter methods to get the value of balance and update account Holder's name if necessary
+
+Deliverables :
+
+A fully functional class BankAccount that adheres to the encapsulation principle by keeping properties private and allowing controlled access using getter and setter methods.
+
+Demonstrate the functionality of the class by creating an instance and performing deposit, withdrawal, and
+
+account holder updates.
+
+Checkpoint 2: Composition vs. Inheritance
+
+Part 1: Inheritance
+
+Instructions:
+
+1. Create a new class SavingsAccount that inherits from BankAccount.
+
+2. Add a private property interest Rate (float) to SavingsAccount..
+
+3. Implement a method applyinterest() that calculates and adds interest to the balance based on the interestRate.
+
+4. Demonstrate the use of inheritance by creating an instance of SavingsAccount, depositing funds, applying interest, and withdrawing funds.
+
+Deliverables:
+
+A class SavingsAccount that demonstrates inheritance from BankAccount and includes interest application.
+
+Part 2: Composition
+
+Instructions:
+
+1. Create another class called Customer.
+
+2. This class should have:
+
+A private property name (string).
+
+A private property bankAccount (which should be an instance of the BankAccount class).
+You sent
+3. The Customer class should be able to interact with the BankAccount class through composition by having methods like deposit($amount) and withdraw($amount) that call the corresponding methods in the BankAccount class.
+
+Deliverables:
+
+A Customer class demonstrating the use of composition by interacting with a BankAccount instance Show this by creating a Customer object, linking it to a BankAccount, and performing transactions through the Customer object.
+
+Checkpoint 3: Getter and Setter Methods
+
+Instructions:
+
+1. In the BankAccount class, modify the following:
+
+Implement a getBalance() method to allow read-only access to the balance.
+
+Implement a setAccountHolder($name) method to update the account holder's name.
+
+2. Use the Customer class to change the account holder's name and display the balance using the getter methods.
+
+Deliverables:
+
+Show proper encapsulation by using getter and setter methods in action through the Customer class.
