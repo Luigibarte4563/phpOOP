@@ -7,3 +7,9 @@ class myClass {
         echo "Hello";
     }
 }
+
+class hello {
+    public function sayHi() {
+        echo "Hi";
+    }
+}
