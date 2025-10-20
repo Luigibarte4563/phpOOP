@@ -1,0 +1,17 @@
+Student No: 240540923 | Name: luigi barte | Gender: MALE | Email: 123@email.com | Contact: 09513091259 | Birthday: 2005-09-30 | Course: SITE | Year: 2nd Year
+Student No: 240540923 | Name: luigi barte | Gender: MALE | Email: 123@email.com | Contact: 09513091259 | Birthday: 2005-09-30 | Course: SITE | Year: 2nd Year
+Student No: 290930209103 | Name: luigi BARTE | Gender: MALE | Email: 123@email.com | Contact: 09513091259 | Birthday: 2005-09-30 | Course: SITE | Year: 1st Year
+Student No: 123 | Name: luigi BARTE | Gender: MALE | Email: 123@email.com | Contact: 160 | Birthday: 2005-09-30 | Course: SITE | Year: 1st Year
+Student No: 123 | Name: luigi BARTE | Gender: MALE | Email: 123@email.com | Contact: 160 | Birthday: 2005-09-30 | Course: SITE | Year: 1st Year
+
+ Student No: 123 | Name: luigi barte | Gender: MALE | Email: luigibarte1@gmail.com | Contact: 09513091259 | Birthday: 2005-09-30 | Course: SITE | Year: 2nd Year
+
+ Student No: 9876 | Name: genivive felix | Gender: FEMALE | Email: genivive@gmail.com | Contact: 098941230898 | Birthday: 2003-08-22 | Course: SITE | Year: 2nd Year
+
+Student No: 2005 | Name: luigi barte | Gender: MALE | Email: 123@email.com | Contact: 09513091259 | Birthday: 2005-09-30 | Course: SITE | Year: 1st Year
+
+Student No: 2005 | Name: luigi barte | Gender: MALE | Email: 123@email.com | Contact: 09513091259 | Birthday: 2005-09-30 | Course: SITE | Year: 1st Year
+
+Student No: 2132 | Name: PEDRO BARTE | Gender: MALE | Email: luigibarte1@gmail.com | Contact: 09513091259 | Birthday: 2025-10-07 | Course: SITE | Year: 1st Year
+
+Student No: 240540923 | Name: jiki monostro | Gender: MALE | Email: luigibarte1@gmail.com | Contact: 09513091259 | Birthday: 2025-02-20 | Course: SITE | Year: 1st Year
