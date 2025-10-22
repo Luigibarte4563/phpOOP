@@ -1,0 +1,3 @@
+Hello, PHP File Handling!
+This text will be inside the file.Luigi!
+Barte
