@@ -1,5 +1,0 @@
-Hello, PHP File Handling!
-This text will be inside the file.Hello, PHP File Handling!
-This text will be inside the file.Hello, PHP File Handling!
-This text will be inside the file.Hello, PHP File Handling!
-This text will be inside the file.
